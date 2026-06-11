@@ -1,11 +1,11 @@
 {
-  "version": "v0.2.0",
-  "notes": "",
-  "pub_date": "2026-06-11T17:55:09.978Z",
+  "version": "v0.2.1",
+  "notes": "### Fixed\n- Auto-updater changelog notes extraction script to correctly parse sections.\n- Configured custom ARTIFACT installer icon for the Windows NSIS setup bundle.",
+  "pub_date": "2026-06-11T18:20:02.867Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdGFrdy9VMUJXTDBCQzQzalhJeGtDakszR2N2ZlBjcTlyWllCVE5kU3VGc1JNV21YVlVmMjNudGJLNUJnSTFISE5LejNsMUt1cDNJS2IySXBGTUc1ZXdrYitjZ1Bja2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjAwNDcwCWZpbGU6QVJUSUZBQ1RfMC4yLjBfeDY0LXNldHVwLmV4ZQpPMkJaamtpdC9lSXRkZmxjek5PaWVsT1lmQnlEYjkrTGJPbnFUWjJmaTB6MDlFY0FwdGxMTmxnSnA4NzBrQ2t2TWM3ZThDQmEvUGVxWWF6SjlYbVRDUT09Cg==",
-      "url": "https://github.com/bun-tzu/artifact-releases/releases/download/v0.2.0/ARTIFACT_0.2.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdGFrdy9VMUJXTDk2bVUrU29rTVdvUWF3UEdlRTZCMy9ZNVJ3SGYrZUJBZU1lYnh6Zm1rK2JVTkEvUExPM0J0bEJraGNub0dyZ2h4S0d5SjFGNzViZDlHc1FYTmQvOVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjAxODY4CWZpbGU6QVJUSUZBQ1RfMC4yLjFfeDY0LXNldHVwLmV4ZQpJOVNORStKOUZWSXdvUmxTSmFMZ0JJNW9LckUyRkdVaG5wK09vV1p3VGtBQ3o1SXc4UDdjb3g2RjVyczFua3RmVUhiMGtvaThnWWZOSk1DMzNMNTZCZz09Cg==",
+      "url": "https://github.com/bun-tzu/artifact-releases/releases/download/v0.2.1/ARTIFACT_0.2.1_x64-setup.exe"
     }
   }
 }
