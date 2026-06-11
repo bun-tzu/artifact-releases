@@ -1,0 +1,11 @@
+{
+  "version": "v0.2.0",
+  "notes": "",
+  "pub_date": "2026-06-11T17:55:09.978Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdGFrdy9VMUJXTDBCQzQzalhJeGtDakszR2N2ZlBjcTlyWllCVE5kU3VGc1JNV21YVlVmMjNudGJLNUJnSTFISE5LejNsMUt1cDNJS2IySXBGTUc1ZXdrYitjZ1Bja2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjAwNDcwCWZpbGU6QVJUSUZBQ1RfMC4yLjBfeDY0LXNldHVwLmV4ZQpPMkJaamtpdC9lSXRkZmxjek5PaWVsT1lmQnlEYjkrTGJPbnFUWjJmaTB6MDlFY0FwdGxMTmxnSnA4NzBrQ2t2TWM3ZThDQmEvUGVxWWF6SjlYbVRDUT09Cg==",
+      "url": "https://github.com/bun-tzu/artifact-releases/releases/download/v0.2.0/ARTIFACT_0.2.0_x64-setup.exe"
+    }
+  }
+}
