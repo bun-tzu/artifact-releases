@@ -1,11 +1,11 @@
 {
-  "version": "v0.2.1",
-  "notes": "### Fixed\n- Auto-updater changelog notes extraction script to correctly parse sections.\n- Configured custom ARTIFACT installer icon for the Windows NSIS setup bundle.",
-  "pub_date": "2026-06-11T18:20:02.867Z",
+  "version": "v0.2.2",
+  "notes": "### Fixed\n- Fixed backend Uvicorn crash on startup when running from a fro",
+  "pub_date": "2026-06-11T22:21:21.750Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdGFrdy9VMUJXTDk2bVUrU29rTVdvUWF3UEdlRTZCMy9ZNVJ3SGYrZUJBZU1lYnh6Zm1rK2JVTkEvUExPM0J0bEJraGNub0dyZ2h4S0d5SjFGNzViZDlHc1FYTmQvOVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjAxODY4CWZpbGU6QVJUSUZBQ1RfMC4yLjFfeDY0LXNldHVwLmV4ZQpJOVNORStKOUZWSXdvUmxTSmFMZ0JJNW9LckUyRkdVaG5wK09vV1p3VGtBQ3o1SXc4UDdjb3g2RjVyczFua3RmVUhiMGtvaThnWWZOSk1DMzNMNTZCZz09Cg==",
-      "url": "https://github.com/bun-tzu/artifact-releases/releases/download/v0.2.1/ARTIFACT_0.2.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdGFrdy9VMUJXTDVOb0pPVm5RV0U2YlZUYmE2V1NlcXJCdmRsNmgvNCtWYWt0SXNkTGpVU20wQmZoeWltc1RwdmxqYk1zdzI4Zyt2L01CNTFtSU1XN2Y1RktZcVJIcEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjE2Mzg1CWZpbGU6QVJUSUZBQ1RfMC4yLjJfeDY0LXNldHVwLmV4ZQpoalN2TmxPWHY0MkhRTGJCbFJWdll0Wkt4UFI0OEd3OXBBSFdkQWlzbzl6WE90R1RoUTlJRkRUWnpDTHVLVjVsRVNXNDlHZjJ6OUlIbkhIQi85M2ZCdz09Cg==",
+      "url": "https://github.com/bun-tzu/artifact-releases/releases/download/v0.2.2/ARTIFACT_0.2.2_x64-setup.exe"
     }
   }
 }
