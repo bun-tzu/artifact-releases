@@ -1,10 +1,10 @@
 {
   "version": "v0.2.6",
   "notes": "### Fixed\n- Fixed a Rust trait conflict error in GitHub Actions by explicitly pinning the `time` crate dependency in `Cargo.toml`.",
-  "pub_date": "2026-06-12T19:31:27.914Z",
+  "pub_date": "2026-06-12T20:14:51.084Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdGFrdy9VMUJXTHc2eFA0SExTSW1iSUhPT2FKVzcwUVBkMlFzWjFLSEhyT3BPUmEwS0I2QUNnMkE5dkMwaEh3MkJULzhaOTVoMHN6SGhoY1ZTbWptWjJpWmRlNE1zWUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjkyNTA4CWZpbGU6QVJUSUZBQ1RfMC4yLjZfeDY0LXNldHVwLmV4ZQpLV0J2VXg1WjJOWjM2QXNYMEVtRXFoUFZHZW5LQ2NrdXorME15eGEwWGszQ3p3OEY0NFp2RmNhOVRnd0NNYmtFRWNvT0EzNUx4VzBiZ1VtUUtQUHdCdz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdGFrdy9VMUJXTDYxMVA2QW1iaVZDdmdNNWNjSUpMZFNuSUkycVRJNzEyUXRaVjBZcW5VWDU0aEdpS3J2MVMxdTdOWTJRNHJtNk5XN2ljYURGWjF2WlVWNVZlNTdhR3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjk1MjQ2CWZpbGU6QVJUSUZBQ1RfMC4yLjZfeDY0LXNldHVwLmV4ZQp1eVNXSTBaK0lmNThYYml4M2JXOFZPNEVOSkZxTmdjc2NkY1I1ZDkwTzg0UEg2UUxFNDZLWENPYXY5bURvSWY3RnJYOGxNQkVkM0tncEVNSHF0TnJCdz09Cg==",
       "url": "https://github.com/bun-tzu/artifact-releases/releases/download/v0.2.6/ARTIFACT_0.2.6_x64-setup.exe"
     }
   }
