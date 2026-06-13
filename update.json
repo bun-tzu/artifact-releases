@@ -1,11 +1,11 @@
 {
-  "version": "v0.2.61",
-  "notes": "### Fixed\n- Bundled `frontend/dist` directory into the compiled PyInstaller executable to correctly serve static PDF viewer files (`pdf.min.js`), resolving infinite loading bugs on fresh desktop installations.",
-  "pub_date": "2026-06-13T10:48:13.215Z",
+  "version": "0.2.62",
+  "notes": "### Fixed\n- Fixed Tauri auto-updater silently failing due to `v` prefix rendering the version string invalid for strict semantic version parsing.",
+  "pub_date": "2026-06-13T11:08:50.058Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdGFrdy9VMUJXTDA0SGJuZmJoR1VOQzJrYTdIajVXZkFhRVBkOVo4RjIvSTZHR3Z0eEQ4bzN1enpqTE8xaTRaQmp2UE5NamZUNXN2cnBpSkZZajd1WGpXQkwyaGI0OHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMzQ3NTIwCWZpbGU6QVJUSUZBQ1RfMC4yLjYxX3g2NC1zZXR1cC5leGUKTUswZWRkNDN1K2RoV0F3VnVOSWMvcTJ5K25DNnJMT1V6RXFqZm5sMmQzYXBpZUxYMi9xMyt0Q2s4RkQ5SHdzeldrdHpjMVFqY3E3Q3JRY0JUdVY1Q3c9PQo=",
-      "url": "https://github.com/bun-tzu/artifact-releases/releases/download/v0.2.61/ARTIFACT_0.2.61_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdGFrdy9VMUJXTCsycU1GdmhXNE1IK3N3NWsrOWF0c1FTMGVlOFlaNnlVVXlQUG5LKzc5Wnp2OEtibmQyWmdRUUdrT1Z1bHkzMjJ3R28xLzliS0RPT0JZaXRzUFRlelFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMzQ4Nzc0CWZpbGU6QVJUSUZBQ1RfMC4yLjYyX3g2NC1zZXR1cC5leGUKVGN2WCs3TnNrdG93QkhSRHltMnVCSzhzclZRUHF0RkxzWHEyNVBUN2l4RHRNekhrS1huOWYxNWJhMW1wMlVzNm0xRmVRR2FyWU1XRVpaTEJSOFRJQXc9PQo=",
+      "url": "https://github.com/bun-tzu/artifact-releases/releases/download/v0.2.62/ARTIFACT_0.2.62_x64-setup.exe"
     }
   }
 }
