@@ -1,11 +1,11 @@
 {
-  "version": "0.2.62",
-  "notes": "### Fixed\n- Fixed Tauri auto-updater silently failing due to `v` prefix rendering the version string invalid for strict semantic version parsing.",
-  "pub_date": "2026-06-13T11:08:50.058Z",
+  "version": "0.2.7",
+  "notes": "### Fixed\n- Fixed highlighted word active/inactive coloring (red vs gold) in PDF and DOC viewers.\n- Fixed loading splash screen for DOC viewers by ignoring initial empty iframe loads.\n- Enabled search-as-you-type (live find) for DOC viewers with a 150ms debounce window.\n- Implemented a 3-character search threshold to avoid layout jumping on short terms.",
+  "pub_date": "2026-06-13T12:35:37.624Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdGFrdy9VMUJXTCsycU1GdmhXNE1IK3N3NWsrOWF0c1FTMGVlOFlaNnlVVXlQUG5LKzc5Wnp2OEtibmQyWmdRUUdrT1Z1bHkzMjJ3R28xLzliS0RPT0JZaXRzUFRlelFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMzQ4Nzc0CWZpbGU6QVJUSUZBQ1RfMC4yLjYyX3g2NC1zZXR1cC5leGUKVGN2WCs3TnNrdG93QkhSRHltMnVCSzhzclZRUHF0RkxzWHEyNVBUN2l4RHRNekhrS1huOWYxNWJhMW1wMlVzNm0xRmVRR2FyWU1XRVpaTEJSOFRJQXc9PQo=",
-      "url": "https://github.com/bun-tzu/artifact-releases/releases/download/v0.2.62/ARTIFACT_0.2.62_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdGFrdy9VMUJXTHlkS0w3SVh2OHQvM3R4ZmRVTHNYK21IRlRCODRESWRXZ0lncVFaVGx4aXZlcTU3WVVnTWlCRVUxdDBpcWFIQ2E4YkMyVW1DRENXMkcwSGpWZTNPUHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMzU0MDAyCWZpbGU6QVJUSUZBQ1RfMC4yLjdfeDY0LXNldHVwLmV4ZQo1ak5mbFZSZVZLa2IvcVBkWWVTQkhSalplZTB6RC9keEdMeU1sVUZFZGFnRVRwR0FTU2Q3bFIzVTlrcExKVXMvTFVQVDFvd0l6YUVZVnpYUXhxSXNCZz09Cg==",
+      "url": "https://github.com/bun-tzu/artifact-releases/releases/download/v0.2.7/ARTIFACT_0.2.7_x64-setup.exe"
     }
   }
 }
