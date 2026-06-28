@@ -1,11 +1,11 @@
 {
-  "version": "0.2.7",
-  "notes": "### Fixed\n- Fixed highlighted word active/inactive coloring (red vs gold) in PDF and DOC viewers.\n- Fixed loading splash screen for DOC viewers by ignoring initial empty iframe loads.\n- Enabled search-as-you-type (live find) for DOC viewers with a 150ms debounce window.\n- Implemented a 3-character search threshold to avoid layout jumping on short terms.\n- Fixed auto-updater silently failing by injecting Tauri globals natively using `withGlobalTauri`.\n### Security\n- Locked down FastAPI sidecar with strict CORS allowing only `tauri://localhost`.\n- Implemented IPC Auth Token handshake to prevent unauthenticated access to the Python backend from external browsers.\n- Saniti",
-  "pub_date": "2026-06-13T13:08:04.127Z",
+  "version": "0.2.8",
+  "notes": "### Added\n- Implemented a loading splash for the library view to properly display status during the initial large database fetch.\n### Fixed\n- Fixed the auto-updater modal UI logic so users correctly receive a prompt to update or skip when a new version is detected.",
+  "pub_date": "2026-06-28T12:46:44.943Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdGFrdy9VMUJXTDZXWmhxN3NrOTZqT1NWVDJ0N3o2enlJa2pEK09mNjUzblh5N3RZWktYbTFVdVNHM3VwaS9OS0ZEb09RNytBN0Q1M2RSckdSQjZQdGRNcllteFIzM1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMzU1OTgzCWZpbGU6QVJUSUZBQ1RfMC4yLjdfeDY0LXNldHVwLmV4ZQpwMEpRZmRlMGtoblVXbitHc2h0RFZwa3RXQ0NxcDl1ZmRsRytkbjU1OGkwQ3dMbEtpbjVjZm1xNU9XVldiWWZjR0pWbmh1dTMrYWVmaHp1L09jd01BUT09Cg==",
-      "url": "https://github.com/bun-tzu/artifact-releases/releases/download/v0.2.7/ARTIFACT_0.2.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdGFrdy9VMUJXTCtNT1BKeXc3KzVDbG5YNmx3bVpVMmxDeUY2L2xNWkxYNUE1aUNseWN4UDloclNqdXAyaVl5WGVTSlZNZjNYTWgvMHpzQnBzWVFsNEcvOXFReCtTcGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNjUwNjUzCWZpbGU6QVJUSUZBQ1RfMC4yLjhfeDY0LXNldHVwLmV4ZQpHNnhuMVRrN2loR3VSdExqcTlJUDdXeW01MTdNTHZmQXkwU2J1dGU3NmJnd2l1ZXRqdWN5VEhPQ1E2eE1yNHc0VnUzOFV4OTRma29jWmNnSkZneG1Bdz09Cg==",
+      "url": "https://github.com/bun-tzu/artifact-releases/releases/download/v0.2.8/ARTIFACT_0.2.8_x64-setup.exe"
     }
   }
 }
