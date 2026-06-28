@@ -1,11 +1,15 @@
 {
-  "version": "0.2.8",
-  "notes": "### Added\n- Implemented a loading splash for the library view to properly display status during the initial large database fetch.\n### Fixed\n- Fixed the auto-updater modal UI logic so users correctly receive a prompt to update or skip when a new version is detected.",
-  "pub_date": "2026-06-28T12:46:44.943Z",
+  "version": "0.2.85",
+  "notes": "### Added\n- Dummy release to test the newly fixed GitHub Actions auto-updater pipeline.",
+  "pub_date": "2026-06-28T13:03:27.334Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdGFrdy9VMUJXTCtNT1BKeXc3KzVDbG5YNmx3bVpVMmxDeUY2L2xNWkxYNUE1aUNseWN4UDloclNqdXAyaVl5WGVTSlZNZjNYTWgvMHpzQnBzWVFsNEcvOXFReCtTcGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNjUwNjUzCWZpbGU6QVJUSUZBQ1RfMC4yLjhfeDY0LXNldHVwLmV4ZQpHNnhuMVRrN2loR3VSdExqcTlJUDdXeW01MTdNTHZmQXkwU2J1dGU3NmJnd2l1ZXRqdWN5VEhPQ1E2eE1yNHc0VnUzOFV4OTRma29jWmNnSkZneG1Bdz09Cg==",
-      "url": "https://github.com/bun-tzu/artifact-releases/releases/download/v0.2.8/ARTIFACT_0.2.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdGFrdy9VMUJXTDFYZG13TTZkaEZOZ3hCcmtqNGQ5NDJrSkdNR2VjQ3B1YTBIVHgxcUlOT1RjVUQvWVBJeFlUV3dqNkhoM3BaTWZFVFhXSk5EQ2xHeTJiNzVSc01CRHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNjUxNjkzCWZpbGU6QVJUSUZBQ1RfMC4yLjg1X3g2NC1zZXR1cC5leGUKdGh1cnREbXdlWi9kM2FtNitCaTFnS2FpNXFNaVZIKy92NENGR1VyRHBTVHJYTHlHM21LTmpCMjlhYW1GQ3E5TGVFQWxxaE1LL09SSFJtYWtEZnlRRFE9PQo=",
+      "url": "https://github.com/bun-tzu/artifact-releases/releases/download/v0.2.85/ARTIFACT_0.2.85_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdGFrdy9VMUJXTCsrc2lrczh6VDhua3ltMHNrV0pYMEcwWU1KK0Uva0FPMlMrTVJUTVRiOGM5NXNqUS9GRmpiMmNoOGV3RStsU2IrNDJmaTY5WnJDRDdMZGRFb0ZWd0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNjUxMzQzCWZpbGU6QVJUSUZBQ1QuYXBwLnRhci5negpENERaSmRKWjJWZnlvNjhyYVpxWmNjcktnWDljVUFOZVJKdllYNUdlbm1IaWcvN0ZvV1c2d1ZKT1FuYlRnUld5R200MldGZzdPb1F5TXB4cUp5c0NDQT09Cg==",
+      "url": "https://github.com/bun-tzu/artifact-releases/releases/download/v0.2.85/ARTIFACT.app.tar.gz"
     }
   }
 }
