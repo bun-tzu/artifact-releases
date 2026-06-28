@@ -1,1 +1,27 @@
-Not Found
+{
+  "version": "0.2.97",
+  "notes": "### Added\n- Fixed auto-updater manifest deployment pipeline to properly authenticate with GitHub API when downloading latest.json from draft releases.",
+  "pub_date": "2026-06-28T21:32:29.571Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdGFrdy9VMUJXTDhPcGNqcnFQT2oycjIvcG12akdJd1lwZzYralFUMWxKMjRDbU54RzNweWVJc1dRZ2ozQkJEQVFhS3VxKzl3Mm91aDNvWXVEbmJvK3R3aDdHbm5vL0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNjgxNzQwCWZpbGU6QVJUSUZBQ1QuYXBwLnRhci5negpHanJjQ1k2YngwcXNZc2xrQ1pJeGIyOVJZY0MzR1h5NkNaRkpvUWRqNU8xY2pqcjdTY2FpTjN3NlM0dmloYk9qeDFxaCt5VHROM3FEZjFkY245UEhCQT09Cg==",
+      "url": "https://github.com/bun-tzu/artifact-releases/releases/download/v0.2.97/ARTIFACT_aarch64.app.tar.gz"
+    },
+    "darwin-aarch64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdGFrdy9VMUJXTDhPcGNqcnFQT2oycjIvcG12akdJd1lwZzYralFUMWxKMjRDbU54RzNweWVJc1dRZ2ozQkJEQVFhS3VxKzl3Mm91aDNvWXVEbmJvK3R3aDdHbm5vL0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNjgxNzQwCWZpbGU6QVJUSUZBQ1QuYXBwLnRhci5negpHanJjQ1k2YngwcXNZc2xrQ1pJeGIyOVJZY0MzR1h5NkNaRkpvUWRqNU8xY2pqcjdTY2FpTjN3NlM0dmloYk9qeDFxaCt5VHROM3FEZjFkY245UEhCQT09Cg==",
+      "url": "https://github.com/bun-tzu/artifact-releases/releases/download/v0.2.97/ARTIFACT_aarch64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdGFrdy9VMUJXTHovTWo3R3FXQWVRL01qb1piZXlwRTlhWURYMXRkYVBqV3VCdWJ5ZXA1UStrRWRmNTB0SGFpRFArdGhOU1J1b0pkRTJIeFJMaGFzbCtrSEtvWTVIamdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNjgyMzQ0CWZpbGU6QVJUSUZBQ1RfMC4yLjk3X3g2NF9lbi1VUy5tc2kKRGVNZGc4UXpTMUZKbkUycWRnY29RRTRMRlYxVDNMRGVjTXE1ZFNVQXlWM1FISWNGbFZWT3ZBTkFsOVZlekJnT1YvdTRBOS9NMkJPc0RCdDNDY0w2QkE9PQo=",
+      "url": "https://github.com/bun-tzu/artifact-releases/releases/download/v0.2.97/ARTIFACT_0.2.97_x64_en-US.msi"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdGFrdy9VMUJXTHovTWo3R3FXQWVRL01qb1piZXlwRTlhWURYMXRkYVBqV3VCdWJ5ZXA1UStrRWRmNTB0SGFpRFArdGhOU1J1b0pkRTJIeFJMaGFzbCtrSEtvWTVIamdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNjgyMzQ0CWZpbGU6QVJUSUZBQ1RfMC4yLjk3X3g2NF9lbi1VUy5tc2kKRGVNZGc4UXpTMUZKbkUycWRnY29RRTRMRlYxVDNMRGVjTXE1ZFNVQXlWM1FISWNGbFZWT3ZBTkFsOVZlekJnT1YvdTRBOS9NMkJPc0RCdDNDY0w2QkE9PQo=",
+      "url": "https://github.com/bun-tzu/artifact-releases/releases/download/v0.2.97/ARTIFACT_0.2.97_x64_en-US.msi"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdGFrdy9VMUJXTDUwcmdZUlZYb1pUZUp6R3J5Zzl0MVRkQzBiaE9FRmtHQzJNQTI4RTBhQmFiZG1aZTJFNCtoVmNaeFAyUzQ2Vit0bWdMd3hYblVSQkcrZmcwTk5FMmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNjgyMzQ0CWZpbGU6QVJUSUZBQ1RfMC4yLjk3X3g2NC1zZXR1cC5leGUKNXkyV1dWNkFSMkxsbkU0VHNOVWFGbmszM1NCUTVHUVAwMU81c3pGWFJRZ2twQk5YYXY5eHdQdVRRbStOWmo2cmxqSkM4eEZ1aERBdVJLS0tXVXhrREE9PQo=",
+      "url": "https://github.com/bun-tzu/artifact-releases/releases/download/v0.2.97/ARTIFACT_0.2.97_x64-setup.exe"
+    }
+  }
+}
